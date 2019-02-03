@@ -7,6 +7,7 @@
             "email": "atikrahman.ew@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "license": "MIT",
+    "minimum-stability": "dev-master",
     "require": {}
 }
