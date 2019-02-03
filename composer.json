@@ -1,0 +1,12 @@
+{
+    "name": "atikrepo/flusher",
+    "description": "This package just clean all the configs cache views etc via artisan command",
+	 "authors": [
+        {
+            "name": "Atikur Rahman Talukdar",
+            "email": "atikrahman.ew@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
