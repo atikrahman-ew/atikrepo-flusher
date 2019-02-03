@@ -7,6 +7,9 @@
             "email": "atikrahman.ew@gmail.com"
         }
     ],
+    "psr-4": {
+        "atikrepo\\flusher\\": "src"
+    },
     "license": "MIT",
     "minimum-stability": "dev-master",
     "require": {}
