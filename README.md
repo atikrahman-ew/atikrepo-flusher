@@ -1,7 +1,5 @@
 ## Laravel 5 AUTOMATIC FLUSH CLEANER
 
-[![Total Downloads][ico-downloads]][link-downloads]
-
 
 ### Install
 
